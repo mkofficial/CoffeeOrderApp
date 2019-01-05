@@ -3,8 +3,6 @@
 
 Android app that let's you order two options of cups of coffee each with their price. Enjoy!
 
-https://www.youtube.com/watch?v=7OSwddxJ90M
-
 
 
 
